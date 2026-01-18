@@ -1,6 +1,6 @@
 import random, sys, time
 
-WIDTH = 150 # The number of columns
+WIDTH = 170 # The number of columns
 
 try:
     # For each column, when the counter is 0, no stream is shown.
