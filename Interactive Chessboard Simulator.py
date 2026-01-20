@@ -60,6 +60,7 @@ def print_chessboard(board):
     print(BOARD_TEMPLATES.format(*squares))
 
 # Program intro
+print()
 print('Interactive Chessboard')
 print('by R.M. Musthak')
 print()
