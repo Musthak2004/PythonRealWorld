@@ -26,7 +26,7 @@ try:
                 columns[i] -= 1 # Decrement the counter for this column.
 
         print() # Print a newline at the end of the row of columns.
-        time.sleep(0.1) # Each row pauses for one tenth of a second.
+        time.sleep(0.2) # Each row pauses for one tenth of a second.
 
 except KeyboardInterrupt:
     sys.exit() # When Ctrl+C is pressed, end the program.
