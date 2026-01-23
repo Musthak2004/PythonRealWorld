@@ -34,4 +34,4 @@ def backup_to_zip(folder):
     backup_zip.close()
     print('Done.')
 
-backup_to_zip(Path.home() / 'spam')
+backup_to_zip(Path.home() / 'spam') # Success
